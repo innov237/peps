@@ -1,0 +1,135 @@
+.contact__card {
+    border: none !important;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    background-color: #f3f3f5 !important;
+    margin-bottom: 10px;
+    height: max-content;
+    justify-content: center;
+}
+
+.contact__icon {
+    font-size: 30px;
+    color: var(--secondary--color);
+    margin-bottom: 20px;
+}
+
+.contact__card h1 {
+    font-size: 15px !important;
+    font-weight: bold;
+    font-family: "Raleway" !important;
+    font-weight: 400px !important;
+    line-height: 1.42857143 !important;
+    color: #333333 !important;
+
+}
+
+.contact__card p {
+    font-size: 14px !important;
+    color: #808080 !important;
+    text-align: center !important;
+    font-weight: bold !important;
+}
+
+.contact__container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: max-content;
+    padding: 30px;
+    background-color: #fff;
+}
+
+.contact__header {
+    display: flex;
+    align-items: center;
+    color: var(--secondary--color);
+}
+
+.contact__header {
+    height: 230px;
+    background-image: linear-gradient(to right, #00f700d8, #90ce00, #a0a300ab, #6ab43591, #00bf737c),
+        url("https://webbuilderzone.com/wp-content/uploads/2019/04/contact-us-banner.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    object-fit: cover;
+}
+
+.contact__container p {
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.contact__container .container > .row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contact__container .form-control {
+    min-height: 50px !important;
+    font-size: 16px;
+}
+
+.contact__container label {
+    font-size: 16px;
+    color: #444;
+}
+
+.form {
+    background-color: #fff;
+    padding: 50px;
+    border-radius: 5px;
+}
+
+.my-primary {
+    background-color: var(--secondary--color) !important;
+    color: white !important;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.contact__form__text {
+    font-size: 14px !important;
+    text-align: left !important;
+    width: 100%;
+    padding: 0px !important;
+    font-weight: normal !important;
+}
+
+@media screen and (max-width: 1455px) {
+    .courses__details__img {
+        height: 250px;
+        width: 250px;
+        border-radius: 100%;
+        border: 2px solid var(--secondary--color);
+    }
+}
+
+@media screen and (max-width: 640px) {
+    .contact__header {
+        height: 100px;
+    }
+    .contact__container {
+        padding: 5px;
+    }
+
+    .contact__container .form-control {
+        min-height: 20px !important;
+        font-size: 20px;
+    }
+
+    .form {
+        padding: 20px;
+    }
+
+    .contact__container label {
+        font-size: 18px;
+    }
+}

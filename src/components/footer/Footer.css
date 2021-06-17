@@ -1,0 +1,37 @@
+.my__footer {
+    background-color: #fff;
+    padding: 0px 0px;
+}
+
+.my__footer p {
+    line-height: 1.7;
+    color: #777777;
+    font-size: 15px;
+    font-family: "Raleway", sans-serif !important;
+}
+.my__footer a:hover {
+    text-decoration: none;
+}
+
+.bg__black {
+    background-color: #212331;
+    color: white;
+    padding-top: 25px;
+}
+
+.footer__logo {
+    border-radius: 100%;
+    margin-top: -39px;
+}
+
+
+.lover__item{
+    padding: 15px;
+    box-shadow: 10px 0px 20px #ecedf1;
+    margin-bottom: 25px;
+    font-weight: bold;
+}
+
+.lovers__row{
+    padding: 20px;
+}

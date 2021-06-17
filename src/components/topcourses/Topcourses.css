@@ -1,0 +1,44 @@
+
+.top__training__row{
+   background-size: cover;
+   padding-bottom: 70px;
+   width: 100%;
+   background-color:#fff !important;
+   padding-top: 25px;
+}
+
+.podium__image{
+    width: 100%;
+    object-fit: contain;
+}
+
+.top__courses__image{
+    height: 50px;
+    width: 50px;
+    object-fit: cover;
+}
+
+.top__courses__item{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid var(--terciary--color);
+    border-radius: 100px;
+    align-items: center;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.top__courses__item img{
+    border-radius: 100px;
+}
+
+.top__courses:hover > a{
+    text-decoration: none;
+    color: var(--terciary--ligth--color);
+}
+
+.top__courses__item:hover{
+    border: 1px solid var(--terciary--ligth--color) !important;
+}

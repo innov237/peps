@@ -1,0 +1,227 @@
+.well__come {
+    justify-content: center;
+    background-color: white;
+    height: max-content;
+    padding-top: 70px;
+}
+
+.well__come p {
+    text-align: start;
+    font-size: 20px;
+    color:black;
+    text-align: justify !important;
+}
+
+.welcome__text {
+    text-align: justify !important;
+}
+
+.rectangle__row {
+    background-color: var(--secondary--color);
+    position: absolute;
+    padding: 50px;
+    width: 50%;
+    height: 100%;
+    border-radius: 0px;
+}
+
+.img__fd {
+    position: relative;
+    padding: 10px;
+    width: 100%;
+}
+
+.well__come h2 {
+    color: var(--secondary--color);
+}
+
+.contact__row {
+    background-color: var(--secondary--color);
+    padding: 20px;
+    text-align: center;
+    margin-top: 60px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.contact__row__container:hover > h1{
+    color: var(--terciary--ligth--color) !important;
+    border: none;
+}
+
+.contact__row__container p {
+    text-align: center !important;
+}
+
+.contact__row__container {
+    border: 2px solid white;
+    padding: 30px;
+}
+
+.founder__div {
+    padding: 0px 15px;
+}
+
+.founder__div h1{
+    font-weight: bold;
+}
+
+.founder__div h2{
+    font-weight: bold;
+}
+
+.circle__title__box {
+    margin-top: 5px;
+    margin-bottom: 5px !important;
+}
+
+.option__row .circle__icon {
+    width: 50px;
+    height: 50px;
+    padding: 2px;
+    object-fit: cover;
+}
+
+.circle{
+    height: 100px;
+    width: 20px;
+    background-color:var(--secondary--color);
+}
+
+
+/**
+* STATS DESIGN
+**/
+
+.subscription {
+    padding: 100px 0px;
+    background-image: linear-gradient(to bottom, rgba(21, 21, 22, 0.801), rgba(24, 22, 21, 0.808)),
+        url("../../assets/images/cse.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+
+.stat__card {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.stat__card P {
+    color: #fff !important;
+    font-size: 15px;
+}
+
+.stat__card .icon__large {
+    color: #fc9928;
+    font-size: 50px;
+}
+
+.subscription {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.subscription p {
+    color: #a9a9a9a9;
+}
+
+.subscription h1 {
+    color: #fc9928;
+    font-family: "Roboto", serif;
+    font-weight: 600;
+    font-size: 70px;
+    /* line-height: 1.42857143; */
+    margin-top: 10px;
+    margin-top: 0px;
+}
+
+.subscription h2 {
+    color: white;
+    margin-bottom: 0px;
+    font-size: 23px;
+    font-family: "Roboto", serif;
+    font-weight: 400;
+    line-height: 1.42857143;
+}
+
+.subscription .form {
+    background-color: rgba(0, 0, 0, 0.541) !important;
+}
+
+.stat__card h1 {
+    color: #fff;
+    font-weight: 400 !important;
+    margin-top: 15px;
+    font-size: 40px;
+    font-family: "Roboto", serif;
+}
+
+.form span{
+    font-size: 10px;
+    color: rgb(238, 73, 73);
+}
+
+.form-label-c{
+    font-size: 14px;
+}
+
+@media screen and (max-width: 640px) {
+    .well__come {
+        justify-content: center;
+        background-color: white;
+        height: max-content;
+        padding-top: 10px;
+    }
+
+    .well__come p {
+        text-align: start;
+        font-size: 16px;
+    }
+
+    .well__come h2 {
+        font-size: 18px;
+    }
+
+    .well__come h1 {
+        font-size: 20px;
+    }
+
+    .contact__row {
+        margin-top: 10px;
+    }
+
+    .img__fd {
+        position: relative;
+        padding: 20px;
+        width: 100%;
+    }
+
+    .line2,
+    .line1 {
+        display: none;
+    }
+
+    .stat__card h1 {
+        font-size: 26px;
+    }
+
+    .stat__card p {
+        font-size: 17px;
+    }
+
+    .subscription h1 {
+        font-size: 30px;
+        margin-top: 0px;
+    }
+
+    .subscription h2 {
+        font-size: 20px;
+    }
+}

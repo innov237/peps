@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "title": "Présentation",
+        "image": "https://www.cameroon-tribune.cm//administrateur/photo/normal_e599965.JPG",
+        "slogan": "Pour être le bon représentant du personnel au bon moment",
+        "is_top": true,
+        "courses": [
+            {
+                "id": 1,
+                "title": "Présentation Générale du PEPS",
+                "slogan": "Un élu bien formé est un représentant efficace",
+                "description": "Dans le but d’améliorer le niveau de son économie et la production d’indicateurs fiables, le gouvernement Camerounais a décidé de reformer la gestion de ses finances publiques. En vue de contribuer à l’amélioration de la qualité de la dépense publique et au renforcement du système statistique, Il a donc été mis sur pied, avec appui de la Banque Mondiale à travers le Fonds IDA, le Projet d’amélioration de l’Efficacité de la dépense Publique et du système Statistique en abrégé (PEPS).",
+                "image": "https://www.cameroon-tribune.cm//administrateur/photo/normal_e599965.JPG"
+            }    
+        ]
+    },
+    { 
+        "id": 2,
+        "title": "Mission",
+        "image": "http://pepsgov.cm/images/actualites/formation_boost.jpg",
+        "slogan": "Deviens un expert en la matière",
+        "is_top": true,
+        "courses": [
+            {
+                "id": 2,
+                "title": "Mission",
+                "slogan": "",
+                "description": "Consolidation budgétaire; Gestion de l’investissement publique ; Renforcement du système statistique, Performance du système des marchés",
+                "image": "http://pepsgov.cm/images/actualites/formation_boost.jpg",
+                "subContentTitle":"Structure organisationnelle",
+                "subContentDescription":"Le Projet d’amélioration de l’Efficacité de la dépense Publique et du système statistique a à sa tête un Coordonnateur le nommé M. Guy Ronel GUEMALEU, son équipe dirigeante est constitué de :",
+                "subp":[
+                    "Responsable Administratif Financier;",
+                    "Comptable","Responsable Suivis evaluation;",
+                    "Responsable Suivis Composante N*1 ;",
+                    " Responsible Suivi Composante N*3;",
+                    "Responsible Suivis Composante N*5;",
+                    "Assistant de Projet;",
+                    "Assistant Administratif;",
+                    "Assistant en Communication;",
+                    "Assistant de Passation de Marché;",
+                    "Agent Courrier et Liaison;",
+                    "Spécialiste en Passation de Marché;"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Enjeu",
+        "image": "http://pepsgov.cm/images/actualites/president_cspm.jpg",
+        "slogan": "Devenez acteur de la transition écologique !",
+        "is_top": true,
+        "courses": [
+            {
+                "id": 3,
+                "title": "Enjeu",
+                "slogan": "Se former un plaisir à la portée de tous",
+                "description": "Le projet se propose de soutenir l’amélioration de certains aspects essentiels liés à l’efficacité de système de Gestion des Finances Publiques (GFP) du Cameroun, en particulier les dispositifs de passation de marchés publiques, d’exécution du budget d’investissement et d’informations financière,Il aboutira à un système de Gestion des Finances Publiques plus transparent et mieux organisé.",
+                "image": "http://pepsgov.cm/images/actualites/president_cspm.jpg",
+                "subContentTitle":"Les enjeux du projet PEPS",
+                "subContentDescription":"De manière assez spécifique, les enjeux du projet PEPS concernent :",
+                "subp":[
+                    "Le renforcement de la transparence des finances publique à travers la mise en place du boost;",
+                    "Appui à l’opérationnalisation du nouveau code des marchés publics et à la passation des marchés en ligne ;",
+                    "L’amélioration de la sélection des projets à inscrire au budget d’investissement publique ;",
+                    "Le renforcement du suivi citoyen du budget d’investissement publique ;",
+                    "L’opérationnalisation des lois relatives à la gestion des entreprises publique ;",
+                    "Le renforcement du système statistique national à travers l’arrimage aux nouvelles  normes internationales du processus de réalisation des enquêtes sur la pauvreté,  l’emploi et la production des comptes nationaux ;",
+                    "Appui la mise en œuvre du plan global de réforme des finances publiques ;",
+                    "L’appui à la mise en œuvre du programme économique et financiers conclut avec le FMI ;",
+                    "L’amélioration du score du Cameroun en matière de qualités et des institutions ;",
+                    "De relèvement de nos seuils en ce qui concerne les indicateurs de soutenabilité de la  dette extérieure ;"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Objectif",
+        "image": "https://tribunedumbam.com/wp-content/uploads/2021/03/IMG_20210304_093123_9-1030x438.jpg",
+        "slogan": "Devenez acteur de la transition écologique !",
+        "is_top": true,
+        "courses": [
+            {
+                "id": 4,
+                "title": "Objectif",
+                "slogan": "Se former un plaisir à la portée de tous",
+                "description": "L’objectif global du Projet d’amélioration de l’Efficacité de la dépense Publique et du système Statistique (PEPS), est d’accroître l’efficacité de la dépense publique au Cameroun,notamment dans les secteurs de la santé et de l’éducation de base, ensuite de renforcer le système statistique afin d’adopter les politiques publiques fondées sur les données factuelles. ",
+                "image": "https://tribunedumbam.com/wp-content/uploads/2021/03/IMG_20210304_093123_9-1030x438.jpg"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Médiathèque",
+        "image": "http://www.jossourffm-maroc.com/wp-content/uploads/jossour-ffm-header-banner-mediatheque.jpg",
+        "slogan": "",
+        "is_top": false,
+        "courses": [
+            {
+                "id": 5,
+                "title": "Médiathèque",
+                "description": "Aucun contenu pour le moment",
+                "image": "http://www.jossourffm-maroc.com/wp-content/uploads/jossour-ffm-header-banner-mediatheque.jpg"
+            }
+        ]
+    }
+]

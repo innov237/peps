@@ -1,0 +1,48 @@
+.add__color{
+    color: var(--secondary--color);
+}
+
+.carousel-caption h3 {
+    line-height: 90px !important;
+    font-family: "Oxygen", "sans-serif";
+}
+
+@-webkit-keyframes zoom {
+    from {
+        -webkit-transform: scale(1, 1);
+    }
+    to {
+        -webkit-transform: scale(1.5, 1.5);
+    }
+}
+
+@keyframes zoom {
+    from {
+        transform: scale(1, 1);
+    }
+    to {
+        transform: scale(1.5, 1.5);
+    }
+}
+
+.carousel-item > img {
+    -webkit-animation: zoom 20s;
+    animation: zoom 20s;
+}
+
+@media screen and (max-width: 640px) {
+    .carousel-item img {
+        height: 300px !important;
+        object-fit: cover;
+    }
+    .carousel {
+        position: relative !important;
+        height: 300px !important;
+        margin-bottom: 8px !important;
+    }
+
+    .carousel-caption h3 {
+        line-height: 24px !important;
+        font-family: "Oxygen", "sans-serif";
+    }
+}

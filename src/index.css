@@ -1,0 +1,52 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap"); */
+
+body {
+  margin: 0;
+  /* font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
+    "Droid Sans", "Helvetica Neue", sans-serif;
+  -moz-osx-font-smoothing: grayscale;
+  font: 14px/22px 'Raleway', Trebuchet MS, Helvetica, Arial, sans-serif;
+ 
+  -webkit-font-smoothing: antialiased; */
+  color: #65707b;
+  background-color: #f9f9f9 !important;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+:root {
+  --myblack: #2e3235;
+  --primary--color: #bc9632;
+  --myblack-ligth: #c2c3c3;
+  --secondary--color: #12A7DC;
+  --terciary--color: #0ea34a;
+  --terciary--ligth--color: #b3d335;
+}
+
+.row-no-padding {
+  padding: 0px !important;
+  padding: 0px !important;
+}
+
+.selected__courses p {
+  background-color: white;
+  padding: 5px 20px !important;
+  font-size: 12px !important;
+  font-weight: bold;
+  margin-bottom: 5px;
+  color: black !important;
+  border-radius: 10px;
+}
+
+.selected__courses {
+  background-color: white;
+  border-radius: 10px;
+}
+
+.selected__courses span {
+  float: right !important;
+  cursor: pointer;
+}
+
