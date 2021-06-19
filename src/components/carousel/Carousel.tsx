@@ -14,7 +14,7 @@ const CarouselBox: React.FC = () => (
                         src={Banner1} alt="First slide"
                     />
                     <Carousel.Caption>
-                        <h3>Projet <strong className="add__color">d'amélioration</strong> de l'électricité de la dépense public et du système éducatif </h3>
+                        <h3>Projet <strong className="add__color">d'Amélioration</strong> de l’Efficacité de la Dépense public et du Système Statistique </h3>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>

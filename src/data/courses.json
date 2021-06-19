@@ -12,7 +12,45 @@
                 "slogan": "Un élu bien formé est un représentant efficace",
                 "description": "Dans le but d’améliorer le niveau de son économie et la production d’indicateurs fiables, le gouvernement Camerounais a décidé de reformer la gestion de ses finances publiques. En vue de contribuer à l’amélioration de la qualité de la dépense publique et au renforcement du système statistique, Il a donc été mis sur pied, avec appui de la Banque Mondiale à travers le Fonds IDA, le Projet d’amélioration de l’Efficacité de la dépense Publique et du système Statistique en abrégé (PEPS).",
                 "image": "https://www.cameroon-tribune.cm//administrateur/photo/normal_e599965.JPG"
-            }    
+            },
+            {
+                "id": 10,
+                "title": "Les Composantes",
+                "slogan": "Un élu bien formé est un représentant efficace",
+                "description": "",
+                "image": "https://www.cameroon-tribune.cm//administrateur/photo/normal_e599965.JPG",
+                "subContentTitle":"Le projet PEPS se décline  en cinq composantes, à savoir :",
+                "composante":[
+                    {
+                       "title": "La Composante 1 : « Consolidation de la réforme des budgets-programmes dans les ministères sectoriels »",
+                       "content":"Placé Sous la coordination du Directeur Général du Budget (MINFI), la composante vise à renforcer la budgétisation par programme dans certains secteurs sélectionnés, de la conception jusqu’à la mise en œuvre. La composante 1 est structurée en quatre sous-composantes notamment : renforcement de la budgétisation des programmes ; renforcement du système de mise en œuvre et de suivi des programmes ; déploiement du SIGIPES 2 et ; appui à l’élaboration et à la mise en œuvre de la stratégie d’opérationnalisation des lois 2017/010 et 2017/011 du 12 juillet 2017 sur les entreprises parapubliques."
+                    },
+                    {
+                        "title":"Composante 2 : « Amélioration de la qualité de l’investissement public dans les ministères sectoriels »",
+                        "content":"Coordonnée par le Directeur Général de l’Economie et de la Programmation des Investissements Publics (MINEPAT), cette composante vise à résoudre certaines difficultés constatées dans le mécanisme de suivi, de programmation, de budgétisation, d’exécution et de maturation des activités d’investissements publics. Cette composante s’articule autour de trois sous-composantes : renforcement de la programmation et sélection des budgets d’investissement public, avec un accent sur la mise en place d’un fonds de maturation des projets ; renforcement du suivi de l’exécution du BIP et ; renforcement de la gestion des projets d’investissement public financés par les bailleurs de fonds bilatéraux et internationaux."
+                    },
+                    {
+                        "title":"Composante 3 : « amélioration de la performance du système de passation des marchés »",
+                        "content":"Cette composante qui est mise en œuvre par le MINMAP, en collaboration avec l’ARMP est placée sous la coordination Directeur des Marchés des Approvisionnements Généraux / MINMAP. Elle a pour objectif d’améliorer le fonctionnement du système de passation des marchés publics en agissant sur les leviers de l’efficacité, de l’efficience et de la rentabilité. Elle est subdivisée en quatre sous-composantes : renforcement des capacités des acteurs de la chaîne de la passation des marchés publics ; appui à la révision des procédures opérationnelles et à l’élaboration des supports d’orientation destinés à aider le personnel à suivre les procédures requises ; appui à la révision et à la mise en œuvre d’un nouveau code de passation de marchés et ; amélioration de la gestion et de la performance du système de passation des marchés à travers l’introduction d’un mécanisme de financement basé sur la performance."
+                    },
+                    {
+                        "title":"Composante 4 : renforcement du système statistique national",
+                        "content":"Le but cette composante est d’améliorer le système statistique national afin de permettre la production de statistiques économiques, sociales et démographiques régulières et fiables. Le Chef de cette sous-composante est le Directeur Général de l’Institut National de la Statistique. Cette composante est composée de trois sous-composantes :"
+                    },
+                    {
+                        "title":"",
+                        "content":"amélioration des données relatives à la pauvreté (réalisation des enquêtes ECAM5 et EESI 3, l’élaboration des monographies sur la pauvreté au Cameroun) ; renforcement de la production des comptes nationaux (production des indices et mise en place d’un mécanisme de collecte des données sur le commerce transfrontalier) ; renforcement de la diffusion des données statistiques et leur utilisation par le Gouvernement."
+                    },
+                    {
+                        "title":"Composante 5 : Coordination et mise en œuvre du projet",
+                        "content":"Le but de cette composante est de fournir un appui à la coordination et la mise en œuvre du projet. Les activités porte entre autres sur :"
+                    },
+                    {
+                        "title":"",
+                        "content":"l’appui à la coordination et gestion du projet et ; la mise en place d’un Fonds de Contingence."
+                    }
+               ]
+            }   
         ]
     },
     { 
@@ -102,8 +140,9 @@
             {
                 "id": 5,
                 "title": "Médiathèque",
-                "description": "Aucun contenu pour le moment",
-                "image": "http://www.jossourffm-maroc.com/wp-content/uploads/jossour-ffm-header-banner-mediatheque.jpg"
+                "description": "",
+                "image": "http://www.jossourffm-maroc.com/wp-content/uploads/jossour-ffm-header-banner-mediatheque.jpg",
+                "images":["Banner1","Banner2"]
             }
         ]
     }

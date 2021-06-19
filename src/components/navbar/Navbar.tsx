@@ -50,7 +50,7 @@ const APPNavBar: React.FC = () => {
                         <img className="logo__smal" src={Datadocke} alt="logo" />
                         <img className="logo__smal" src={Qualiopi} alt="logo" />
                         <img className="logo__smal" src="https://adaf-amc2.com/wp-content/uploads/2017/01/logo-minfi-cameroun.jpg" alt="logo" />
-                        <img className="logo__smal" src="https://image.jimcdn.com/app/cms/image/transf/none/path/s808584e5371b6bc2/image/icdf971ce6921fb05/version/1554728087/image.jpg"alt="logo" />
+                        <img className="logo__smal" src="https://image.jimcdn.com/app/cms/image/transf/none/path/s808584e5371b6bc2/image/icdf971ce6921fb05/version/1554728087/image.jpg" alt="logo" />
                         <img className="logo__smal" src="http://www.pepsgov.cm/templates/peps/images/wb_logo.png" alt="logo" />
                         <img className="logo__smal" src="https://www.dynafac.org/images/members/image/minfof-ministere-des-forets-Cameroun-partner-dynafac.jpg" alt="logo" />
                         <img className="logo__smal" src="https://yt3.ggpht.com/ytc/AAUvwnix67Yqyd2y9imwHFjJ6GtQL-1ogpOeZ_vtQX4v=s900-c-k-c0x00ffffff-no-rj" alt="logo" />

@@ -2,13 +2,8 @@ import React, { useState, useRef } from 'react';
 import { Link, RouteComponentProps, useLocation } from 'react-router-dom';
 import "./CoursesDetails.css"
 import trainingData from '../../data/courses.json';
-import AccessTimeIcon from '@material-ui/icons/AccessTime';
-import EuroIcon from '@material-ui/icons/Euro';
-import { ImUserCheck } from "react-icons/im";
-import { ImUsers } from "react-icons/im";
-import { ImProfile } from "react-icons/im";
-import { ImCheckmark } from "react-icons/im";
-import { url } from 'node:inspector';
+import Banner1 from "../../assets/images/1.jpg";
+import Banner2 from "../../assets/images/2.jpg";
 
 interface idparams extends RouteComponentProps<{ idTraining: any, idCourses: any }> { };
 
@@ -66,6 +61,21 @@ const CoursesDetails: React.FC<idparams> = (props) => {
                     {coursesData?.subp && coursesData?.subp.map((value: any) => (
                         <div className="item-li"><li>{value}</li></div>
                     ))}
+                    <div>
+                        {coursesData?.composante && coursesData?.composante.map((value: any) => (
+                            <div>
+                                <h1 style={{ fontSize: "26px" }}>{value.title}</h1>
+                                <p>{value.content}</p>
+                            </div>
+                        ))}
+
+                        {coursesData?.images &&
+                            <div className="card">
+                                <img src={Banner1} />
+                                <img src={Banner2} />
+                            </div>
+                        }
+                    </div>
 
                 </div>
             </div>
